@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @g1thubhack3r
+- I'm currently learing OI.
+- Most of my repository are licensed under GNU General Public License v3.0 or later.
 - 📫 You can reach me at noiphacker@126.com
 
 <!---
