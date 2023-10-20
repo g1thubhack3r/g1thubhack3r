@@ -5,6 +5,7 @@
 - [My Luogu Account](https://www.luogu.com.cn/user/502344)
 - Most of my repository are licensed under GNU General Public License v3.0 or later.
 - 📫 You can reach me at noiphacker@126.com
+- A new game will be published after finished writing it! It uses modified [Developers' Game](https://github.com/g1thubhack3r/DevelopersGame) battle system and it may help you learning data structures!
 <!--- - I'm a primary school six grader(sounds unbelievable, but yes). --->
 
 <!---
